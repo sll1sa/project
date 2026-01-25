@@ -1,0 +1,13 @@
+body {
+    display: flex;
+}
+
+
+.left {
+    background-color: chartreuse;
+}
+
+.right {
+   width: 100%;
+    background-color: deeppink;
+}
